@@ -6,5 +6,7 @@
   <li>Redux</li>
   <li>React Router</li>
   <li>Redux Form</li>
+  <li>Redux-promise</li>
   <li>Axios</li>
+  <li>Laravel Passport</li>
 </ul>
